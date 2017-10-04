@@ -1,0 +1,40 @@
+.header{
+	background-color: white;
+	width: 700px;
+	border: 15px solid black;
+	padding: 50px;
+	margin: auto;
+	align-self: center;
+	font-family: 'Sofia';font-size: 22px;
+}
+
+h1 {
+	color: dark grey;
+	text-align: center;
+	font-size: 350%;
+}
+
+img {
+	margin-right: 30px;
+}
+body{
+	background-image: url("webbg.jpg");
+}
+
+p{
+	width:500px;
+	font-size: 20px
+}
+
+#fb{
+	position:fixed;
+	bottom:0px;
+	left:50%;
+}
+
+#github {
+	position:fixed;
+	bottom:15px;
+	left:45%;
+}
+
